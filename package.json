@@ -1,6 +1,6 @@
 {
-  "name": "axios",
-  "version": "0.21.1",
+  "name": "@tiku/axios",
+  "version": "0.0.1",
   "description": "Promise based HTTP client for the browser and node.js",
   "main": "index.js",
   "scripts": {
@@ -73,7 +73,7 @@
   "unpkg": "dist/axios.min.js",
   "typings": "./index.d.ts",
   "dependencies": {
-    "follow-redirects": "^1.14.0"
+    "@tiku/follow-redirects": "^0.0.1"
   },
   "bundlesize": [
     {
